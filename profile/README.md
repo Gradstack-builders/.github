@@ -8,8 +8,8 @@ Gradstack is a trusted ecosystem and home to the first **Modern Hiring Standard*
 
 **Come experience the standard with us.**
 
-[![Get early access](https://img.shields.io/badge/Get_early_access-2FBF8B?style=for-the-badge&logoColor=033025)](https://web-landing-prototype.vercel.app/signup)
-[![Contact us about GAFI®](https://img.shields.io/badge/Contact_us_about_GAFI®-0A5C43?style=for-the-badge)](https://web-landing-prototype.vercel.app/products/gafi/contact)
+[![Get early access](https://img.shields.io/badge/Get_early_access-2FBF8B?style=for-the-badge&logoColor=033025)](https://gradstack.ai/signup)
+[![Contact us about GAFI®](https://img.shields.io/badge/Contact_us_about_GAFI®-0A5C43?style=for-the-badge)](https://gradstack.ai/products/gafi/contact)
 [![hello@gradstack.ai](https://img.shields.io/badge/hello@gradstack.ai-084A36?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@gradstack.ai)
 
 <br/>
@@ -81,7 +81,7 @@ We don't use AI to source, screen, or decide who gets hired. AI does one thing: 
 
 Every match is built on verified evidence, and it keeps improving as more of that evidence comes in. Gradstack is your trust and verification partner for the AI-driven workforce.
 
-[Read our Responsible AI statement →](https://web-landing-prototype.vercel.app/responsible-ai-statement)
+[Read our Responsible AI statement →](https://gradstack.ai/responsible-ai-statement)
 
 ## GAFI® · Australia's National AI Fluency Score. Live now.
 
@@ -97,7 +97,7 @@ Not a detection tool. Not a self-rating. A real score, built on how capable some
 | **L4** | **Strategist** | designs how AI is used across a team or project |
 | **L5** | **Architect** | builds and shapes AI systems and standards |
 
-[Learn about GAFI®](https://web-landing-prototype.vercel.app/products/gafi) · [Contact us about GAFI®](https://web-landing-prototype.vercel.app/products/gafi/contact)
+[Learn about GAFI®](https://gradstack.ai/products/gafi) · [Contact us about GAFI®](https://gradstack.ai/products/gafi/contact)
 
 ## What our valued partners say
 
@@ -123,7 +123,7 @@ Gradstack is aligned with the [National AI Plan](https://www.industry.gov.au/pub
 
 ## Our ecosystem
 
-| [Candidates](https://web-landing-prototype.vercel.app/ecosystem/for-candidates) | [Employers](https://web-landing-prototype.vercel.app/ecosystem/for-employers) | [Education Partners](https://web-landing-prototype.vercel.app/ecosystem/for-education-partners) | [Community Partners](https://web-landing-prototype.vercel.app/ecosystem/for-community-partners) |
+| [Candidates](https://gradstack.ai/ecosystem/for-candidates) | [Employers](https://gradstack.ai/ecosystem/for-employers) | [Education Partners](https://gradstack.ai/ecosystem/for-education-partners) | [Community Partners](https://gradstack.ai/ecosystem/for-community-partners) |
 | :---: | :---: | :---: | :---: |
 
 <div align="center">
@@ -132,7 +132,7 @@ Gradstack is aligned with the [National AI Plan](https://www.industry.gov.au/pub
 
 Australian partners, employers and institutions are already joining Gradstack. Join the waitlist for the 2027 platform launch, and if you want to start verifying AI fluency now, GAFI® is live today.
 
-**[Get early access →](https://web-landing-prototype.vercel.app/signup)** · **[Build a more inclusive workforce with us →](https://web-landing-prototype.vercel.app/#waitlist)**
+**[Get early access →](https://gradstack.ai/signup)** · **[Build a more inclusive workforce with us →](https://gradstack.ai/#waitlist)**
 
 <sub>No spam. No AI-generated outreach. Just the real thing.</sub>
 
@@ -140,7 +140,7 @@ Australian partners, employers and institutions are already joining Gradstack. J
 
 *Aligned with the National AI Plan · NSW Government 20% Alternative Pathways Pledge · UN SDG 8*
 
-[Privacy Policy](https://web-landing-prototype.vercel.app/privacy) · [Terms of Service](https://web-landing-prototype.vercel.app/terms) · [Responsible AI statement](https://web-landing-prototype.vercel.app/responsible-ai-statement) · [Acknowledgement of Country](https://web-landing-prototype.vercel.app/acknowledgement-of-country)
+[Privacy Policy](https://gradstack.ai/privacy) · [Terms of Service](https://gradstack.ai/terms) · [Responsible AI statement](https://gradstack.ai/responsible-ai-statement) · [Acknowledgement of Country](https://gradstack.ai/acknowledgement-of-country)
 
 © 2026 Gradstack. All Rights Reserved.
 
